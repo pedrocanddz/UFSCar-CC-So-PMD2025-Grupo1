@@ -36,3 +36,6 @@
 &emsp;Para a organização e desenvolvimento do trabalho, as atividades foram divididas entre os integrantes do grupo, contemplando as seguintes etapas: realização de pesquisa teórica sobre o funcionamento e as aplicações do MongoDB e do Neo4j (Paulo); análise da arquitetura da Current, conforme descrito no artigo e em materiais complementares (Pedro); elaboração da produção textual, incluindo as seções de resumo, introdução (Pedro),  objetivos e fundamentação teórica (Paulo).
 
 &emsp;O cronograma foi estruturado levando em consideração as entregas previstas nas fases I do projeto, garantindo que cada etapa fosse concluída dentro dos prazos estabelecidos, de forma a assegurar a qualidade do desenvolvimento e a coerência na apresentação dos resultados.
+
+# Referências
+https://www.mongodb.com/blog/post/next-generation-mobile-bank-current-using-mongodb-atlas-google-cloud-make-financial-services-accessible-affordable-all
